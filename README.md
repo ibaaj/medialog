@@ -15,6 +15,7 @@ process of generating & updating this [spreadsheet](https://docs.google.com/spre
 - a Google Sheets key,
 - a Youtube API key, for both use [http://console.developers.google.com](console.developers.google.com)
 - The [Pygsheets](pygsheets.readthedocs.io) python package available with pip to work with Google Sheet API.
+- [feedparser](https://pypi.python.org/pypi/feedparser), also available with pip
 
 ## Launch
 
