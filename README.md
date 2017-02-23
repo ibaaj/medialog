@@ -12,8 +12,9 @@ process of generating & updating this [spreadsheet](https://docs.google.com/spre
 
 
 ## Requirements
-You need a Google Sheets key and a Youtube API key - use [http://console.developers.google.com](console.developers.google.com)
-The [Pygsheets](pygsheets.readthedocs.io)  python package available with pip to easily work with Google APIs.
+- a Google Sheets key,
+- a Youtube API key, for both use [http://console.developers.google.com](console.developers.google.com)
+- The [Pygsheets](pygsheets.readthedocs.io) python package available with pip to work with Google Sheet API.
 
 ## Launch
 
